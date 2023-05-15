@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/braveuiclone/static/css/main.a86e6e9b.css",
+    "main.js": "/braveuiclone/static/js/main.85aa2560.js",
+    "static/js/787.c36c40b5.chunk.js": "/braveuiclone/static/js/787.c36c40b5.chunk.js",
+    "static/media/bg.png": "/braveuiclone/static/media/bg.4e08b651d654f1c7ed0b.png",
+    "index.html": "/braveuiclone/index.html",
+    "main.a86e6e9b.css.map": "/braveuiclone/static/css/main.a86e6e9b.css.map",
+    "main.85aa2560.js.map": "/braveuiclone/static/js/main.85aa2560.js.map",
+    "787.c36c40b5.chunk.js.map": "/braveuiclone/static/js/787.c36c40b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86e6e9b.css",
+    "static/js/main.85aa2560.js"
+  ]
+}
