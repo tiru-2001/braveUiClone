@@ -1,0 +1,41 @@
+.Footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 35px;
+    right: 0px;
+    left: 0px;
+}
+
+.footerChilds {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 40px;
+}
+
+.phototitle {
+    font-size: 12px;
+}
+
+.bori {
+    border-right: 2px solid white;
+    padding: 0px 20px 0px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bori .wor {
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.i {
+    font-size: 1.5rem;
+}
+
+.spei {
+    margin-left: 10px;
+}

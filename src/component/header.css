@@ -1,0 +1,48 @@
+:root {
+    --colo: #a0a5eb;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0px;
+}
+
+.header .sections {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px 45px;
+}
+
+.sec1_items:not(.s1) {
+    margin-left: 30px;
+}
+
+.colororange {
+    color: #FB542B;
+}
+
+.colorpurple {
+    color: var(--colo);
+}
+
+.samefont {
+    font-size: 40px;
+}
+
+.sub {
+    margin-top: 0px;
+    font-weight: 600;
+}
+
+.dat {
+    font: 78px Poppins, sans-serif;
+}
+
+.mbi {
+    margin: 0px 0px 0px -4px;
+    font-size: 24px;
+}
